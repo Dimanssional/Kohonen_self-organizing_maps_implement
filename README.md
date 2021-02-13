@@ -1,1 +1,1 @@
-# NN_task4
+# Implementation of Kohonen self-organizing maps for color clustering
